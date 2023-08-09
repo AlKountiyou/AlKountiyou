@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlKountiyou
 - 👀 I’m interested in backend-develop
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently a node js expert
 - 💞️ I’m looking to collaborate on project developping with javascript
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/mouhamad-kounta-12a4a21b5/
 
