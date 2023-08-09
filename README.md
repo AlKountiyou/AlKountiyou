@@ -46,8 +46,6 @@
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=alkountiyou&show_icons=true&theme=radical&custom_title=Contributions%20GitHub&hide_border=true&count_private=true&include_all_commits=true)
 
-[![Mouhamad Kounta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alkountiyou)]
-
 
 
 <!---
