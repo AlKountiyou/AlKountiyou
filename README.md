@@ -39,7 +39,7 @@
 
 
 ## Réseaux Sociaux
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/mouhamad-kounta-12a4a21b5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://sn.linkedin.com/in/mouhamad-kounta-12a4a21b5)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/__The92__)
 
 
