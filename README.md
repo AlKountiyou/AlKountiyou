@@ -33,14 +33,9 @@
 
 ## Passions
 
-- 🥋 Taekwondo
-- 💪 Musculation
-- 🎮 Jeux Vidéo
-
-**Badges :**
-![Taekwondo](https://img.shields.io/badge/-Taekwondo-4B0082?style=flat)
-![Musculation](https://img.shields.io/badge/-Musculation-FF5733?style=flat)
-![Jeux Vidéo](https://img.shields.io/badge/-Jeux_Vidéo-1F8B4C?style=flat)
+- 🥋 ![Taekwondo](https://img.shields.io/badge/-Taekwondo-4B0082?style=flat)
+- 💪 ![Musculation](https://img.shields.io/badge/-Musculation-FF5733?style=flat)
+- 🎮 ![Jeux Vidéo](https://img.shields.io/badge/-Jeux_Vidéo-1F8B4C?style=flat)
 
 
 ## Réseaux Sociaux
