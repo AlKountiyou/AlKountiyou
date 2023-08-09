@@ -31,7 +31,19 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Réseaux Sociaux :**
+## Passions
+
+- 🥋 Taekwondo
+- 💪 Musculation
+- 🎮 Jeux Vidéo
+
+**Badges :**
+![Taekwondo](https://img.shields.io/badge/-Taekwondo-4B0082?style=flat)
+![Musculation](https://img.shields.io/badge/-Musculation-FF5733?style=flat)
+![Jeux Vidéo](https://img.shields.io/badge/-Jeux_Vidéo-1F8B4C?style=flat)
+
+
+## Réseaux Sociaux
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/mouhamad-kounta-12a4a21b5/))
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/__The92__)
 
