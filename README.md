@@ -19,12 +19,12 @@
 - Angular
 - NestJS
 
-//**Langages de Programmation :**
+<!--**Langages de Programmation :**
 //![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 //![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 //![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 //![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-//![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+//![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)-->
 
 **Outils :**
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
