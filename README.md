@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-- 👋 I’m Mouhamad Kounta ( @AlKountiyou ), Backend Developer at [TOFTAL SARL].
+- 👋 I’m Mouhamad Kounta ( @AlKountiyou ), Backend Developer at [TOFTAL].
 - 👀 I’m interested in backend-developer
 - 🌱 I’m currently a node js expert
 - 💞️ I’m looking to collaborate on project developping with javascript
