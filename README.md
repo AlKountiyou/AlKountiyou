@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
 - 👋 I’m Mouhamad Kounta ( @AlKountiyou )
-- DATA SCIENTIST at [NICOMATIC: https://nicomaticsenegal.com/about].
+- [DATA SCIENTIST](https://nicomaticsenegal.com/about) at NICOMATIC
 - 👀 I’m interested in backend development
 - 🌱 I’m currently a node js expert
 - 💞️ I’m looking to collaborate on project developping with javascript
@@ -41,9 +41,6 @@
 ## Réseaux Sociaux
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Voir-blue)](https://sn.linkedin.com/in/mouhamad-kounta-12a4a21b5)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/__The92__)
-
-## Achievements
-[![Test](https://www.credly.com/badges/127cf811-fb64-45ab-b2b4-bdb7bac42033/public_url)
 
 
 ## Statistiques GitHub
