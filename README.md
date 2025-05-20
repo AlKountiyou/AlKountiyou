@@ -3,9 +3,9 @@
 - 👋 I’m Mouhamad Kounta ( @AlKountiyou )
 - DATA SCIENTIST at [NICOMATIC SENEGAL](https://nicomaticsenegal.com/about)
 - 👀 I’m interested in backend development
-- 🌱 I’m currently a node js expert
+- 🌱 I’m currently a node js and python expert
 - 💞️ I’m looking to collaborate on project developping with javascript
-- Contact me if you wanna see my private repositories
+- 🔗 Contact me if you want to see my work
 
 ## Compétences
 
