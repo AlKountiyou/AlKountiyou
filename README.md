@@ -62,8 +62,7 @@ Je suis **Mouhamad Kounta**, **Data Scientist & Développeur Full-Stack**, passi
 ## 🌍 Me retrouver  
 🌐 [Portfolio](https://portfolio.mouhamadkounta.link)  
 💼 [LinkedIn](https://www.linkedin.com/in/mouhamad-kounta-12a4a21b5/)  
-🐙 [GitHub](https://github.com/AlKountiyou)  
-🐦 [Twitter](https://twitter.com/__The92__)  
+🐙 [GitHub](https://github.com/AlKountiyou)
 
 ---
 
